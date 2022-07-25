@@ -3,7 +3,6 @@ import torch.nn as nn
 import torch.nn.functional as F
 import networks
 
-
 class Algorithm(torch.nn.Module):
 
     def __init__(self, input_shape, num_classes, num_domains, hparams):
