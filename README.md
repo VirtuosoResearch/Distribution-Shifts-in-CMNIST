@@ -1,6 +1,4 @@
-# Benchmarking Distribution Shifts for Domain
-
-# Generalization
+# Benchmarking Distribution Shifts for Domain Generalization
 
 Kinshuk Sharma
 Northeastern University
